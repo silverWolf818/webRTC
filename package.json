@@ -1,0 +1,15 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "webrtc",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "zzh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
